@@ -1,0 +1,56 @@
+[
+    {
+        "name": "iphone X",
+        "price": 64000.00,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone 15 pro max",
+        "price": 148900.00,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "watch se 2nd gen",
+        "price": 24999.00,
+        "company": "apple"
+    },
+    {
+        "name": "galaxy watch4",
+        "price": 10849.00,
+        "company": "samsung"
+    },
+    {
+        "name": "led monitor p2422h",
+        "price": 10749.00,
+        "company": "dell"
+    },
+    {
+        "name": "galaxy note 10+",
+        "price": 49999.00,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "nord ce2",
+        "price": 25000.00,
+        "featured": true,
+        "company": "oneplus"
+    },
+    {
+        "name": "inspiron 3520",
+        "price": 40000.00,
+        "company": "dell"
+    },
+    {
+        "name": "x series 4k ultra hd tv",
+        "price": 26999.00,
+        "company": "mi"
+    },
+    {
+        "name": "d series crystal 4k vivid pro let smart tv",
+        "price": 32990.00,
+        "company": "samsung"
+    }
+]
